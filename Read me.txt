@@ -1,0 +1,47 @@
+Have you wanted to transform your photographs in an artistic sketch or painting to showcase your creativity? Well using some built in OpenCV functions you can do exactly that! OpenCV is a powerful computer vision and image processing library. In this guided project you will learn how to transform your photos to sketches and paintings using OpenCV in python.
+
+After completing this exercise, you will be able to:
+
+Convert colored images to grayscale
+Apply the Gaussian filter to smooth an image
+Detect the edges of an image using the Gradient Magnitude
+Convert a grayscale image to a binary image
+Create a pencil sketch of an image in OpenCV
+Create a water painting of an image in OpenCV
+
+
+Exercise 1: Import Libraries and Load your Images
+Exercise 2: Turning a Photograph into a Sketch
+Task A: Convert Your Image To Grayscale
+Task B: Smooth Your Image
+Task C: Detect the Edges
+Task D: Get the Threshold of the Image
+Exercise 3: Pencil Sketch Effect
+Exercise 4: Water Color Painting Effect
+Exercise 5: Experiment With Your Own Photos!
+Exercise 6: Practice!
+Task A: Smooth an Image
+Task B: Get the Water Painting Image of a Colored Image
+Task C: Convert a Grayscale Image to a Binary Image
+
+At a Glance
+Have you ever wanted to transform your photographs into an artistic sketch or painting to showcase your creativity?  In this Guided Project you'll do just that! Transform your photographs to paintings, sketches and more using OpenCV in python.
+
+Learn by Doing
+A guided project is a hands-on tutorial designed to help you learn a particular technology by doing a real project. It includes step-by-step instructions with explanations, examples and exercises that can be followed and practiced in a lab environment.  Hands-on skills are highly sought out by employers when determining job readiness.   Guided projects are 
+interactive, on-demand and will equip you with practical abilities that can be applied on the job!
+
+A Look at the Project Ahead
+Have you ever wondered what techniques are used to make photo filters like the ones present in applications such as Adobe Photoshop? Well the answer is computer vision and image processing techniques! Or wondered how your photographs would look like as art work? 
+
+In this project you will learn how to use built-in OpenCV functions to transform your photographs into artistic paintings and sketches.  OpenCV  is a powerful and popular open source computer vision and image processing library that contains an extensive set of algorithms. We will be utilizing this library to transform your photographs into artwork!
+
+Express your creativity with technology using OpenCV in python, all while learning about some common and basic image processing and computer vision techniques!
+
+More specifically after this lab you will be able to:
+Convert colored images to grayscale
+Apply the Gaussian filter to smooth an image
+Detect the edges of an image using the Gradient Magnitude
+Convert a grayscale image to a binary image
+Create a pencil sketch of an image in OpenCV
+Create a water painting of an image in OpenCV
